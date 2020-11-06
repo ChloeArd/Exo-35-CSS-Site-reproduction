@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cantarell:wght@700&display=swap');
+     body {
+         margin: 0;
+         padding: 0;
+         font-family: 'Cantarell', sans-serif;
+     }
+     #avoc {
+        position: relative;
+         left: 30px;
+         top: 30px;
+     }
+     #logoAvoc {
+         width: 100px;
+     }
+     #pimage1 {
+         position: relative;
+         left: 650px;
+         top: 120px;
+     }
+     #image1 {
+        width: 400px;
+     }
+     #titre {
+         position: absolute;
+         left: 340px;
+         top: 140px;
+         font-weight: bold;
+         font-size: 55px;
+     }
+     #menu {
+         position: absolute;
+         right: 40px;
+         top: 40px;
+         font-weight: bold;
+         font-size: 12px;
+     }
+     #share {
+         position: absolute;
+         right: 40px;
+         top: 70px;
+         font-size: 10px;
+         color: #908990;
+     }
