@@ -7,22 +7,27 @@
          padding: 0;
          font-family: 'Cantarell', sans-serif;
      }
+
      .avoc {
         position: relative;
          left: 30px;
          top: 30px;
      }
+
      .logoAvoc {
          width: 100px;
      }
+
      .pimage1 {
          position: relative;
          left: 720px;
          top: 110px;
      }
+
      .image1 {
         width: 360px;
      }
+
      .titre {
          position: absolute;
          left: 410px;
@@ -30,6 +35,7 @@
          font-weight: bold;
          font-size: 55px;
      }
+
      .menu {
          position: absolute;
          right: 40px;
@@ -37,6 +43,7 @@
          font-weight: bold;
          font-size: 12px;
      }
+
      .share {
          position: absolute;
          right: 40px;
@@ -44,12 +51,14 @@
          font-size: 10px;
          color: #908990;
      }
+
      .imenu {
          position: absolute;
          right: 90px;
          top: 53px;
          width: 23px;
      }
+
     .branding {
         position: absolute;
         right: 730px;
@@ -57,21 +66,33 @@
         font-size: 12px;
         font-family: 'Josefin Sans', sans-serif;
     }
+
     .texte {
         font-size: 12px;
         position: relative;
         left: 570px;
         top: 170px;
     }
+
     .noto {
         font-family: 'Noto Sans JP', sans-serif;
     }
+
     a {
         text-decoration: none;
         font-family: 'Noto Sans JP', sans-serif;
         color: #DD7282;
         font-weight: bold;
     }
+
     .espace {
         line-height: 7px;
     }
+    
+    .coton {
+        position: absolute;
+        top: 1000px;
+        left: 400px;
+        height: 200px;
+    }
+
