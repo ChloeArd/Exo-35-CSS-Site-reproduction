@@ -6,6 +6,7 @@
      margin: 0;
      padding: 0;
      font-family: 'Cantarell', sans-serif;
+     color: #585546;
  }
 
  .avoc {
@@ -14,31 +15,37 @@
      top: 30px;
  }
 
+ h3 {
+     color: black;
+ }
+
  .logoAvoc {
+     position: absolute;
      width: 100px;
  }
 
  .pimage1 {
      position: relative;
-     left: 720px;
+     left: 750px;
      top: 110px;
  }
 
  .image1 {
-    width: 360px;
+    width: 400px;
  }
 
  .titre {
+     color: black;
      position: absolute;
-     left: 410px;
-     top: 140px;
+     left: 440px;
+     top: 110px;
      font-weight: bold;
      font-size: 55px;
  }
 
  .menu {
      position: absolute;
-     right: 40px;
+     left: 1440px;
      top: 40px;
      font-weight: bold;
      font-size: 12px;
@@ -46,7 +53,7 @@
 
  .share {
      position: absolute;
-     right: 40px;
+     left: 1443px;
      top: 70px;
      font-size: 10px;
      color: #908990;
@@ -54,23 +61,24 @@
 
  .imenu {
      position: absolute;
-     right: 90px;
+     left: 1410px;
      top: 53px;
      width: 23px;
  }
 
 .branding {
     position: absolute;
-    right: 730px;
-    top: 177px;
+    left: 765px;
+    top: 140px;
     font-size: 12px;
     font-family: 'Josefin Sans', sans-serif;
 }
 
 .texte {
+    color: #585546;
     font-size: 12px;
     position: relative;
-    left: 570px;
+    left: 620px;
     top: 170px;
 }
 
@@ -96,83 +104,83 @@ a {
 .coton {
     position: absolute;
     top: 1000px;
-    left: 380px;
+    left: 430px;
     height: 200px;
 }
 
 .fleur {
     position: absolute;
     top: 1000px;
-    left: 740px;
+    left: 790px;
     height: 200px;
 }
 
 .bras {
     position: absolute;
     top: 1260px;
-    left: 380px;
+    left: 430px;
     width: 665px;
 }
 
 .masque {
     position: absolute;
     top: 1770px;
-    left: 380px;
+    left: 430px;
     height: 200px;
 }
 
 .lunette {
     position: absolute;
     top: 1770px;
-    left: 740px;
+    left: 790px;
     height: 200px
 }
 
 .gobelet {
     position: absolute;
     top: 2150px;
-    left: 450px;
+    left: 500px;
     width: 180px;
 }
 
 .chaise {
     position: absolute;
     top: 2120px;
-    left: 780px;
+    left: 830px;
     width: 130px;
 }
 
 .previous {
     font-size: 10px;
     position: relative;
-    left: 411px;
-    top: 1467px;
+    left: 470px;
+    top: 1497px;
     width: 40px;
 }
 
 .back {
     font-size: 10px;
     position: relative;
-    left: 660px;
-    top: 1435px;
+    left: 710px;
+    top: 1455px;
 }
 
 .next {
     font-size: 10px;
     position: relative;
-    left: 885px;
-    top: 1400px;
+    left: 935px;
+    top: 1430px;
     width: 40px;
 }
 
 .fin {
     background-color: #F7F7F7;
-    width: 100%;
+    width: 840px;
     height: 220px;
     position: absolute;
     top: 2400px;
     padding-top: 70px;
-    padding-left: 700px;
+    padding-left: 680px;
 }
 
 span {
@@ -204,11 +212,12 @@ i {
     padding-top: 20px;
     margin-top: 80px;
     margin-left: 30px;
+    color: #585546;
 }
 
 .arrow {
-    color: black;
+    color: #585546;
     position: absolute;
-    left: 762px;
+    left: 742px;
     bottom: 32px;
 }
