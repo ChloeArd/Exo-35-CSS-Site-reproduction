@@ -168,8 +168,47 @@ a {
 .fin {
     background-color: #F7F7F7;
     width: 100%;
-    height: 250px;
+    height: 220px;
     position: absolute;
-    border: 1px solid black;
     top: 2400px;
+    padding-top: 70px;
+    padding-left: 700px;
+}
+
+span {
+    color: #DD7282;
+}
+
+.logo {
+    color: black;
+    position: relative;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.texteB {
+    font-size: 12px;
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 10px;
+}
+
+i {
+    padding-right: 10px;
+}
+
+.top {
+    width: 80px;
+    height: 20px;
+    color: black;
+    font-size: 12px;
+    padding-top: 20px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.arrow {
+    color: black;
+    position: absolute;
+    left: 762px;
+    bottom: 32px;
 }
