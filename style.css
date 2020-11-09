@@ -78,6 +78,10 @@
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+#line {
+    line-height: 7px;
+}
+
 a {
     text-decoration: none;
     font-family: 'Noto Sans JP', sans-serif;
@@ -138,4 +142,25 @@ a {
     width: 130px;
 }
 
-.
+.previous {
+    font-size: 10px;
+    position: relative;
+    left: 411px;
+    top: 1467px;
+    width: 40px;
+}
+
+.back {
+    font-size: 10px;
+    position: relative;
+    left: 660px;
+    top: 1435px;
+}
+
+.next {
+    font-size: 10px;
+    position: relative;
+    left: 885px;
+    top: 1400px;
+    width: 40px;
+}
