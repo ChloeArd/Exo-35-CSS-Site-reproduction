@@ -2,97 +2,140 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap');
 
-     body {
-         margin: 0;
-         padding: 0;
-         font-family: 'Cantarell', sans-serif;
-     }
+ body {
+     margin: 0;
+     padding: 0;
+     font-family: 'Cantarell', sans-serif;
+ }
 
-     .avoc {
-        position: relative;
-         left: 30px;
-         top: 30px;
-     }
+ .avoc {
+    position: relative;
+     left: 30px;
+     top: 30px;
+ }
 
-     .logoAvoc {
-         width: 100px;
-     }
+ .logoAvoc {
+     width: 100px;
+ }
 
-     .pimage1 {
-         position: relative;
-         left: 720px;
-         top: 110px;
-     }
+ .pimage1 {
+     position: relative;
+     left: 720px;
+     top: 110px;
+ }
 
-     .image1 {
-        width: 360px;
-     }
+ .image1 {
+    width: 360px;
+ }
 
-     .titre {
-         position: absolute;
-         left: 410px;
-         top: 140px;
-         font-weight: bold;
-         font-size: 55px;
-     }
+ .titre {
+     position: absolute;
+     left: 410px;
+     top: 140px;
+     font-weight: bold;
+     font-size: 55px;
+ }
 
-     .menu {
-         position: absolute;
-         right: 40px;
-         top: 40px;
-         font-weight: bold;
-         font-size: 12px;
-     }
+ .menu {
+     position: absolute;
+     right: 40px;
+     top: 40px;
+     font-weight: bold;
+     font-size: 12px;
+ }
 
-     .share {
-         position: absolute;
-         right: 40px;
-         top: 70px;
-         font-size: 10px;
-         color: #908990;
-     }
+ .share {
+     position: absolute;
+     right: 40px;
+     top: 70px;
+     font-size: 10px;
+     color: #908990;
+ }
 
-     .imenu {
-         position: absolute;
-         right: 90px;
-         top: 53px;
-         width: 23px;
-     }
+ .imenu {
+     position: absolute;
+     right: 90px;
+     top: 53px;
+     width: 23px;
+ }
 
-    .branding {
-        position: absolute;
-        right: 730px;
-        top: 177px;
-        font-size: 12px;
-        font-family: 'Josefin Sans', sans-serif;
-    }
+.branding {
+    position: absolute;
+    right: 730px;
+    top: 177px;
+    font-size: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+}
 
-    .texte {
-        font-size: 12px;
-        position: relative;
-        left: 570px;
-        top: 170px;
-    }
+.texte {
+    font-size: 12px;
+    position: relative;
+    left: 570px;
+    top: 170px;
+}
 
-    .noto {
-        font-family: 'Noto Sans JP', sans-serif;
-    }
+.noto {
+    font-family: 'Noto Sans JP', sans-serif;
+}
 
-    a {
-        text-decoration: none;
-        font-family: 'Noto Sans JP', sans-serif;
-        color: #DD7282;
-        font-weight: bold;
-    }
+a {
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #DD7282;
+    font-weight: bold;
+}
 
-    .espace {
-        line-height: 7px;
-    }
-    
-    .coton {
-        position: absolute;
-        top: 1000px;
-        left: 400px;
-        height: 200px;
-    }
+.espace {
+    line-height: 7px;
+}
 
+.coton {
+    position: absolute;
+    top: 1000px;
+    left: 380px;
+    height: 200px;
+}
+
+.fleur {
+    position: absolute;
+    top: 1000px;
+    left: 740px;
+    height: 200px;
+}
+
+.bras {
+    position: absolute;
+    top: 1260px;
+    left: 380px;
+    width: 665px;
+}
+
+.masque {
+    position: absolute;
+    top: 1770px;
+    left: 380px;
+    height: 200px;
+}
+
+.lunette {
+    position: absolute;
+    top: 1770px;
+    left: 740px;
+    height: 200px
+}
+
+.gobelet {
+    position: absolute;
+    top: 2150px;
+    left: 450px;
+    width: 180px;
+}
+
+.chaise {
+    position: absolute;
+    top: 2120px;
+    left: 780px;
+    width: 130px;
+}
+
+.
